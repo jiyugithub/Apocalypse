@@ -11,4 +11,4 @@ System.out.printf("Hello world!");
 - 🌱 I’m currently learning <strong>Koltlin</strong>
 - 📝 My skills <strong>Java, Koltlin, PHP, JavaScript, NodeJs</strong>...
 - 😳 I'am <strong>Android UI/UX Designer.<strong>
-- 📫 How to reach me: https://t.me/GabrielAplok
+- 📫 How to reach me: https://jiyugithub.github.io
